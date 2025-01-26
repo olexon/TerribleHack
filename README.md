@@ -5,3 +5,8 @@ GTA: Definitive Edition "trainer"
 
 ## Currently supported games
 Vice City
+
+## Preview
+![Player Tab](https://github.com/olexon/TerribleHack/blob/main/preview/player.png?raw=true)
+![Vehicle Tab](https://github.com/olexon/TerribleHack/blob/main/preview/vehicle.png?raw=true)
+![Misc Tab](https://github.com/olexon/TerribleHack/blob/main/preview/misc.png?raw=true)
