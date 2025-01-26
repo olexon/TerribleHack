@@ -1,5 +1,6 @@
 # TerribleHack
 GTA: Definitive Edition "trainer"
+[UC thread & download](https://www.unknowncheats.me/forum/other-single-player-games/684168-gta-definitive-edition-external.html)
 
 ### run games in fullscreen windowed mode if you want to access the menu without alt-tabbing
 
